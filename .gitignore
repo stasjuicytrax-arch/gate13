@@ -1,0 +1,15 @@
+# Local source media are preserved on disk; large masters are not Git assets.
+/drive-download-20261102T083738Z-1-001/
+/Референсы/
+/Техническое задания для Claude.md
+/.work/
+/.taste-skill/
+/.impeccable/live/
+/node_modules/
+/dist/
+/.env
+/.env.*
+!.env.example
+*.log
+Thumbs.db
+.DS_Store

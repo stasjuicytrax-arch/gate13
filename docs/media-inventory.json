@@ -1,0 +1,400 @@
+{
+  "generated": "2026-11-02",
+  "root": "C:\\Users\\G13\\Desktop\\CHATGPT\\Gate13",
+  "method": "File enumeration, SHA-256, Pillow dimensions, ffprobe streams/duration; visual selection based on contact sheets, not full playback.",
+  "counts": {
+    "photo": 17,
+    "video": 17,
+    "reference": 3,
+    "logo": 1,
+    "profile": 1
+  },
+  "total_bytes": 931051380,
+  "items": [
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G1.JPG",
+      "kind": "photo",
+      "bytes": 693671,
+      "sha256": "9f6fc4c6561ad6e7ad3284e7b8f00edb6cb0c8b4bffee2917e8506f241b346dd",
+      "width": 1200,
+      "height": 1800
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G10.jpg",
+      "kind": "photo",
+      "bytes": 587394,
+      "sha256": "11d4f09f0866a09901c36810979b69be97c16ffb64782d9f9e10e4e6ee98ec1e",
+      "width": 2048,
+      "height": 1366
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G11.jpg",
+      "kind": "photo",
+      "bytes": 957870,
+      "sha256": "5a2be9b68b88b2e5833b675510d2e64953b4d878b70d82d7d93586b8e093db20",
+      "width": 1184,
+      "height": 1776
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G12.jpg",
+      "kind": "photo",
+      "bytes": 1126535,
+      "sha256": "cbde931d24b9c30135386ae6bcc2368508a21653c797dcc6c2fe2a149cb53f82",
+      "width": 1184,
+      "height": 1776
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G14.jpg",
+      "kind": "photo",
+      "bytes": 366120,
+      "sha256": "8ec7ee60f26fcd2d08e49ad7b814ff07e3420168ea9acbcb892033979527161c",
+      "width": 672,
+      "height": 608
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G15.jpg",
+      "kind": "photo",
+      "bytes": 1570016,
+      "sha256": "5c90dd4e0588521b054bbeb749469326adef2a9a250e4da2bf9009176c65370f",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G16.jpg",
+      "kind": "photo",
+      "bytes": 9979957,
+      "sha256": "e440b44d4994c1cb638e53775f525c0d0255b41b2ad1048492a1f841c2b0e988",
+      "width": 7168,
+      "height": 6720
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G18.jpg",
+      "kind": "photo",
+      "bytes": 1093163,
+      "sha256": "85593fb583d3fc61800c4d7bb7fd7e47dffa05b5143a1fcc29bd08baa80d6152",
+      "width": 1184,
+      "height": 1776
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G19.jpg",
+      "kind": "photo",
+      "bytes": 929412,
+      "sha256": "44339f458f9046a1d1f4a7f094af7845f19d76c8526def3b61e1afd5c51083a9",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G2.jpg",
+      "kind": "photo",
+      "bytes": 2305676,
+      "sha256": "b057f0b44d13420277f405c7facc0c556477ed547d05479e19e7b6ddaead4301",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G3.jpg",
+      "kind": "photo",
+      "bytes": 1352724,
+      "sha256": "7727b2314916de231923763649f17d41821061b8b0ae772829261f5a3261dada",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G4.jpg",
+      "kind": "photo",
+      "bytes": 1638639,
+      "sha256": "7b139f20958c2b36ff68e40962070c787447bdd89cbb4b055d949283656a330d",
+      "width": 2000,
+      "height": 2000
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G5.JPG",
+      "kind": "photo",
+      "bytes": 1132808,
+      "sha256": "deac6ac881a676165cb6181906582e738b60ead266c3cb1597752c537e35e65b",
+      "width": 1173,
+      "height": 1776
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G6.jpg",
+      "kind": "photo",
+      "bytes": 12244120,
+      "sha256": "7b9d589d5d46fff8c0d600719f93697e2bb86a4f0e6f63fd7e3c3bd1b0577dc2",
+      "width": 3872,
+      "height": 5808
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G7.JPG",
+      "kind": "photo",
+      "bytes": 748715,
+      "sha256": "d06a7c6aa2cbf73e1c29a427de79dda1de9c7e903e9ad75f803d4a1b45504462",
+      "width": 1092,
+      "height": 1605
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G8.jpg",
+      "kind": "photo",
+      "bytes": 659154,
+      "sha256": "44918364c87620f33378715c2f192ac8342758acf76d0de2b442d76019a2b37a",
+      "width": 2048,
+      "height": 1366
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/G9.jpg",
+      "kind": "photo",
+      "bytes": 422856,
+      "sha256": "eefd3746d1ac06de2574d9f6dbd78ac4737c2da11a0037593efd30718f23ee49",
+      "width": 2048,
+      "height": 1366
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Gate13 - Profile.pdf",
+      "kind": "profile",
+      "bytes": 37121445,
+      "sha256": "232be05edada3393e75a2278edb691b9bf15db4a354d4a586755faf58f35992e"
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Logo/Glogo Png.png",
+      "kind": "logo",
+      "bytes": 9115173,
+      "sha256": "68fff4210e8c934357829b407a8552628d4ed4d91d26cde424a4a293e91105e3",
+      "width": 2000,
+      "height": 2000,
+      "mode": "RGBA",
+      "alpha_bounds": [
+        172,
+        694,
+        1712,
+        1359
+      ]
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/-7906485955799696063.mp4",
+      "kind": "video",
+      "bytes": 31050695,
+      "sha256": "5ecc9023f67c3e03b73dc2c1805daa43ad9c5ceb506fb9b080a2569f29499e0c",
+      "id": "V01",
+      "duration_seconds": 27.0,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/2728201706232756274.mp4",
+      "kind": "video",
+      "bytes": 24434765,
+      "sha256": "9955c049025dcea24a51398ba83ea3d4e7968902ff9776c2dab6d97c1ea51d91",
+      "id": "V02",
+      "duration_seconds": 25.88,
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/GATE13 Promo Video.MP4",
+      "kind": "video",
+      "bytes": 25408248,
+      "sha256": "1371bdcc14b1839bc82fc379350a10d64b5cf2d29d930bea72297d09ea985ce0",
+      "id": "V03",
+      "duration_seconds": 25.429,
+      "width": 1280,
+      "height": 720,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Gate13 video full.mp4",
+      "kind": "video",
+      "bytes": 50843782,
+      "sha256": "67c4a7f14fe15662ba18ada53cd2cf4516a99c4e0accbff77dca69d8ba35684d",
+      "id": "V04",
+      "duration_seconds": 15.015,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 1.mp4",
+      "kind": "video",
+      "bytes": 122887521,
+      "sha256": "0472c35c6fa4a6c4937bfca88dda9a0bd80f06145feefc9ca5571465ef1cd655",
+      "id": "V05",
+      "duration_seconds": 23.833,
+      "width": 1920,
+      "height": 1080,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 10.mp4",
+      "kind": "video",
+      "bytes": 50206749,
+      "sha256": "dc1164f952acb31542e1b84ccde8401893082eedee12cc6b96a792c2143f5df0",
+      "id": "V06",
+      "duration_seconds": 15.033,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 11.mp4",
+      "kind": "video",
+      "bytes": 28670862,
+      "sha256": "7ba0c6a2f27253abeff812dedc94e95e2fa7bc32893b47baa09f609383376372",
+      "id": "V07",
+      "duration_seconds": 9.9,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 12.mp4",
+      "kind": "video",
+      "bytes": 51500432,
+      "sha256": "f6b49f4fd3e334dce4147abe4a24a47088ad9ba4a4b414e2d71e32781a5e99a8",
+      "id": "V08",
+      "duration_seconds": 13.767,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 13.mp4",
+      "kind": "video",
+      "bytes": 66678765,
+      "sha256": "869dd276266036c73e4c67225d6699ebd03f57e6936a839c1cab6465f828e6ce",
+      "id": "V09",
+      "duration_seconds": 20.0,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 2.MOV",
+      "kind": "video",
+      "bytes": 40081491,
+      "sha256": "d28121a766f8b53207c11498a61ea033012e09e207d98e4d9353a0bcd98e2506",
+      "id": "V10",
+      "duration_seconds": 23.173,
+      "width": 1920,
+      "height": 1080,
+      "codec": "hevc",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 3.MOV",
+      "kind": "video",
+      "bytes": 5433976,
+      "sha256": "cd48865c0e2905b3b0ee60e9785f522463ea6e50a79e22243390ea89ca3536b1",
+      "id": "V11",
+      "duration_seconds": 14.164,
+      "width": 640,
+      "height": 1136,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 4.MOV",
+      "kind": "video",
+      "bytes": 12111154,
+      "sha256": "04cabea9a047f1e7f3fe7e271a806c8e2b76fdb341268bceb5a90b095c82a08d",
+      "id": "V12",
+      "duration_seconds": 15.0,
+      "width": 720,
+      "height": 1280,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 5.MP4",
+      "kind": "video",
+      "bytes": 6961303,
+      "sha256": "eb4d8f03684d84123e6bc517a3a9a70b273a890a627285c901be31c3d033f04f",
+      "id": "V13",
+      "duration_seconds": 21.863,
+      "width": 720,
+      "height": 1280,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 6.mp4",
+      "kind": "video",
+      "bytes": 29243981,
+      "sha256": "a67ec5303c75ee0ca7842e5dd8aaba1acdeaac460755b5599f5fc3055a1cb98b",
+      "id": "V14",
+      "duration_seconds": 31.833,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 7.mp4",
+      "kind": "video",
+      "bytes": 161346354,
+      "sha256": "9e8c15cc2c9ee96cd247feef4e291ef3c698da4f6d7373cdc623afa944e56dc9",
+      "id": "V15",
+      "duration_seconds": 46.755,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 8.mp4",
+      "kind": "video",
+      "bytes": 59464387,
+      "sha256": "de3bb18af5cc674cca0bf57d5b88ea3b0b64c5a58f6e226e5a8c095ff3bf57cc",
+      "id": "V16",
+      "duration_seconds": 17.167,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "drive-download-20261102T083738Z-1-001/Video/Video 9.mp4",
+      "kind": "video",
+      "bytes": 80288298,
+      "sha256": "6ab28f4f424371ec36b3739ce0923124a4d0ed860f884ecca6ec589569cbf38c",
+      "id": "V17",
+      "duration_seconds": 28.1,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "audio": true
+    },
+    {
+      "path": "Референсы/8.jpg",
+      "kind": "reference",
+      "bytes": 232359,
+      "sha256": "1b1138faf4593b93bf9fea4a5467570a67a3d6dc3dfc0cbc8314209020753129",
+      "width": 1200,
+      "height": 2448
+    },
+    {
+      "path": "Референсы/803ed0ff3f6978e0bdf7653bdde7f151.jpg",
+      "kind": "reference",
+      "bytes": 74569,
+      "sha256": "ccd3d5f61797403e64cee8e88f41a7bc5b1c2c88b57269eadec297dd87456221",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "path": "Референсы/ece3c89fff5f07538e70f024561a3de4.jpg",
+      "kind": "reference",
+      "bytes": 86241,
+      "sha256": "51b3bfd4e73b3785b461d1f008d446c74b145a21e81c92abdccf17724a1eafed",
+      "width": 736,
+      "height": 1264
+    }
+  ]
+}
